@@ -84,6 +84,7 @@ set(MODULES
   wincons
   winwave
   x11
+  pcmfile
 
   CACHE STRING "List of modules like 'turn;pipewire;alsa'"
 )
